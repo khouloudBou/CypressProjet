@@ -5,7 +5,7 @@
   "main": "index.js",
 
   "scripts": {
-    "test": "i am in test phase",
+    "start": "",
     "cypress:open" : "cypress open"
   },
   "keywords": [],
