@@ -33,6 +33,7 @@ describe('example to-do app', () => {
     cy.get('.todo-list li').first().should('have.text', 'Pay electric bill')
     cy.get('.todo-list li').last().should('have.text', 'Walk the dog')
   })
+  //testt
 
   it('can add new todo items', () => {
     // We'll store our item text in a variable so we can reuse it
